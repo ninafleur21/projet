@@ -8,3 +8,4 @@ const aire = longueur * largeur;
 
 console.log(`Le périmètre du rectangle est : ${perimetre}`);
 console.log(`L'aire du rectangle est : ${aire}`);
+ 
